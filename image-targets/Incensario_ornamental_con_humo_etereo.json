@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/Incensario_ornamental_con_humo_etereo_luminance.png",
+  "resources": {
+    "originalImage": "Incensario_ornamental_con_humo_etereo_original.png",
+    "croppedImage": "Incensario_ornamental_con_humo_etereo_cropped.png",
+    "thumbnailImage": "Incensario_ornamental_con_humo_etereo_thumbnail.png",
+    "luminanceImage": "Incensario_ornamental_con_humo_etereo_luminance.png"
+  },
+  "name": "Incensario_ornamental_con_humo_etereo",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 139,
+    "width": 956,
+    "height": 1274,
+    "isRotated": false,
+    "originalWidth": 1234,
+    "originalHeight": 1274
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795207330065,
+  "updated": 1795207330065
+}
